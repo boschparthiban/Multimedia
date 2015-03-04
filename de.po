@@ -1,0 +1,40 @@
+# German translation of Pootle.
+# Copyright (C) YEAR Zuza Software Foundation (Translate.org.za)
+# This file is distributed under the same license as the Pootle package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Pootle 2.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-03 02:17+0200\n"
+"PO-Revision-Date: 2010-08-10 19:22+0200\n"
+"Last-Translator: ahagenbruch <ahagenbruch@googlemail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.0-rc1\n"
+
+#: strings.py:8
+msgid ""
+"Hold down \"Control\", or \"Command\" on a Mac, to select more than one."
+msgstr ""
+"Halten Sie \"Strg\" oder die \"Kommandotaste\" beim Mac gedrückt, um mehr als "
+"einen Eintrag auszuwählen."
+
+#: strings.py:9
+msgid "Enter a valid e-mail address."
+msgstr "Geben Sie eine gültige E-Mail Adresse an."
+
+#: strings.py:10
+msgid ""
+"That e-mail address doesn't have an associated user account. Are you sure "
+"you've registered?"
+msgstr ""
+"Diese E-Mail Adresse ist keinem Benutzerkonto zugeordnet. Sind Sie sicher, "
+"dass Sie registriert sind?"
+
+#: strings.py:11
+msgid "This field is required."
+msgstr "Diese Angabe wird benötigt."
