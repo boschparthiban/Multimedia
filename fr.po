@@ -24,7 +24,7 @@ msgid ""
 "Hold down \"Control\", or \"Command\" on a Mac, to select more than one."
 msgstr ""
 "Appuyer sur la touche « Ctrl » ou la touche « pomme/commande » sur Mac pour "
-"sélectionner plusieurs options. "
+" plusieurs options. "
 
 #: strings.py:11
 msgid "This field is required."
