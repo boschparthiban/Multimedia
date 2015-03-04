@@ -26,18 +26,6 @@ msgstr ""
 "Appuyer sur la touche « Ctrl » ou la touche « pomme/commande » sur Mac pour "
 "sélectionner plusieurs options. "
 
-#: strings.py:9
-msgid "Enter a valid e-mail address."
-msgstr "Indiquez une adresse électronique valable."
-
-#: strings.py:10
-msgid ""
-"That e-mail address doesn't have an associated user account. Are you sure "
-"you've registered?"
-msgstr ""
-"Aucun compte d'utilisateur n'est associé à cette adresse électronique. Vous "
-"n'êtes peut-être pas enregistré(e)."
-
 #: strings.py:11
 msgid "This field is required."
 msgstr "Ce champ est requis."
